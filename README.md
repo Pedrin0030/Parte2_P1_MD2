@@ -7,7 +7,7 @@
 | **Aluno**           | Pedro Paulo Santos Almeida |
 | **Matrícula**       | 221008688                  |
 | **Disciplina**      | Matemática Discreta II     |
-| **Professor**       | Cristiane Loesch de Souza Costa |
+| **Professora**       | Cristiane Loesch de Souza Costa |
 | **Curso**           | Engenharia de Software     |
 | **Instituição**     | UnB/FGA                    |
 
